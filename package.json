@@ -1,5 +1,6 @@
 {
-  "name": "react-sidebar-v1",
+  "name": "drea-day",
+  "home-page": "https://dreaday.us",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
