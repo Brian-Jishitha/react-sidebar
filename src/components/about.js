@@ -6,6 +6,7 @@ import img6278 from "./IMG_6278.jpg";
 import heat from "./9082575_heart (2).png";
 import mary from "./FB_IMG_1601691929258.jpg";
 import face from "./Untitled-2-01_2_1_1_1_1_1_2_1.png";
+import breeze from "./breeze.jpg";
 import cc from "./Screenshot_20201002-231437_Instagram.jpg";
 import smoosh from "./Screenshot_20201003-231223_Instagram.jpg";
 import credit from "./crs - 1.png";
@@ -59,6 +60,9 @@ const About = () => {
         </a>
         <a href="https://www.instagram.com/wowbeauty317/">
           <img src={face} alt="Face img" height={100} width={100} />
+        </a>
+        <a href="https://jamaicanbreezeindy.com/">
+          <img src={breeze} alt="Breeze img" height={100} width={100} />
         </a>
       </div>
 
